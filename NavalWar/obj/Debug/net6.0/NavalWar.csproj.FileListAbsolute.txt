@@ -1,0 +1,15 @@
+G:\projects\NavalWar\NavalWar\bin\Debug\net6.0\NavalWar.exe
+G:\projects\NavalWar\NavalWar\bin\Debug\net6.0\NavalWar.deps.json
+G:\projects\NavalWar\NavalWar\bin\Debug\net6.0\NavalWar.runtimeconfig.json
+G:\projects\NavalWar\NavalWar\bin\Debug\net6.0\NavalWar.dll
+G:\projects\NavalWar\NavalWar\bin\Debug\net6.0\NavalWar.pdb
+G:\projects\NavalWar\NavalWar\obj\Debug\net6.0\NavalWar.csproj.AssemblyReference.cache
+G:\projects\NavalWar\NavalWar\obj\Debug\net6.0\NavalWar.GeneratedMSBuildEditorConfig.editorconfig
+G:\projects\NavalWar\NavalWar\obj\Debug\net6.0\NavalWar.AssemblyInfoInputs.cache
+G:\projects\NavalWar\NavalWar\obj\Debug\net6.0\NavalWar.AssemblyInfo.cs
+G:\projects\NavalWar\NavalWar\obj\Debug\net6.0\NavalWar.csproj.CoreCompileInputs.cache
+G:\projects\NavalWar\NavalWar\obj\Debug\net6.0\NavalWar.dll
+G:\projects\NavalWar\NavalWar\obj\Debug\net6.0\refint\NavalWar.dll
+G:\projects\NavalWar\NavalWar\obj\Debug\net6.0\NavalWar.pdb
+G:\projects\NavalWar\NavalWar\obj\Debug\net6.0\NavalWar.genruntimeconfig.cache
+G:\projects\NavalWar\NavalWar\obj\Debug\net6.0\ref\NavalWar.dll
